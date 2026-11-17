@@ -91,6 +91,14 @@ I also practised identifying network addresses using different IP addresses and 
 - Understood why different networks can use the same subnet mask.
 - Learned CIDR notation and common subnet mask formats.
 
+## CMD Commands Practised
+
+### 1. ipconfig
+Displays the basic IP configuration of network adapters, including IPv4 address, subnet mask and default gateway.
+
+### 2. ipconfig | findstr /i "IPv4 Subnet"
+Filters the output to display only IPv4 address and subnet information.
+
 ## Conclusion
 
 Day 7 helped me understand how subnet masks divide IP addresses into network and host portions. I also learned how CIDR notation represents subnet masks in a shorter format.
